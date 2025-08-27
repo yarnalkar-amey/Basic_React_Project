@@ -1,0 +1,27 @@
+{
+  "name": "basic_react_project",
+  "version": "1.0.0",
+  "description": "This project demonstrates a basic **frontend + backend integration** where both parts are hosted on different origins (domains/ports). It highlights how to implement **Cross-Origin Resource Sharing (CORS)**, allowing the frontend to securely communicate with the backend.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yarnalkar-amey/Basic_React_Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/yarnalkar-amey/Basic_React_Project/issues"
+  },
+  "homepage": "https://github.com/yarnalkar-amey/Basic_React_Project#readme",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^4.19.2",
+    "mongoose": "^8.18.0",
+    "nodemon": "^3.1.10"
+  }
+}

@@ -83,6 +83,16 @@ npm start
 
 Frontend will start on **[http://localhost:3000](http://localhost:3000)**
 
+POST /api/products/
+
+GET /api/products/
+
+GET /api/products/:id
+
+PUT /api/products/:id
+
+DELETE /api/products/:id
+
 ---
 
 
