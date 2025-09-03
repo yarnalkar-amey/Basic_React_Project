@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/yarnalkar-amey/Basic_React_Project#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "dotenv": "^17.2.1",
     "express": "^4.19.2",
     "mongoose": "^8.18.0",
